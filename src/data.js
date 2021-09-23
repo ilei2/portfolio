@@ -5,7 +5,7 @@ export const projects = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://media.wired.com/photos/5f87340d114b38fa1f8339f9/master/w_1600%2Cc_limit/Ideas_Surprised_Pikachu_HD.jpg",
   },
   {
     title: "React Tracks",
@@ -13,7 +13,7 @@ export const projects = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://media.wired.com/photos/5f87340d114b38fa1f8339f9/master/w_1600%2Cc_limit/Ideas_Surprised_Pikachu_HD.jpg",
   },
   {
     title: "DevChat",
@@ -21,7 +21,7 @@ export const projects = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://media.wired.com/photos/5f87340d114b38fa1f8339f9/master/w_1600%2Cc_limit/Ideas_Surprised_Pikachu_HD.jpg",
   },
   {
     title: "Epic Todo App",
@@ -29,7 +29,7 @@ export const projects = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://media.wired.com/photos/5f87340d114b38fa1f8339f9/master/w_1600%2Cc_limit/Ideas_Surprised_Pikachu_HD.jpg",
   },
 ];
 
@@ -51,10 +51,10 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "JavaScript",
-  "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "Java",
+  "Python",
+  "AWS",
+  "Oracle Cloud",
+  "Oracle DB",
+  "React"
 ];
