@@ -54,7 +54,5 @@ export const skills = [
   "Java",
   "Python",
   "AWS",
-  "Oracle Cloud",
-  "Oracle DB",
   "React"
 ];

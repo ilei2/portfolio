@@ -1,0 +1,34 @@
+.nav-background-color {
+    background-color: #395756;
+}
+
+.main-background-color {
+    background-color: #1B3022;
+}
+
+.contact-btn, .skills-btn, .past-work-btn, .submit-btn  {
+    /* background-color: #9AB87A; */
+    background-color: #7C9F56;
+}
+
+.map-field-background-color {
+    background-color: #1B3022;
+}
+
+.check-icon {
+    color: #C2D4AF;
+}
+
+.past-work-btn:hover, .submit-btn:hover, .contact-btn:hover {
+    background-color: #3d4045;
+}
+
+.field-background-color {
+    background-color: #FFFFFF;
+}
+
+.profile-img {
+    border-radius: 50%;
+    max-width: 75%;
+    max-height: 75%
+}
